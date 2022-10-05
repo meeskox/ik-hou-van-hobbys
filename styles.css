@@ -1,0 +1,50 @@
+@import url();
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.topbar {
+    width: 100%;
+    background-color: rgb(193, 193, 255);
+    color: black;
+}
+.main {
+    position: relative;
+    left: 265px;
+}
+.subl {
+    position: absolute;
+    left: 400px;
+    top: 550px;
+    width: 685px;
+    height: 500px;
+    background-color: rgb(129, 143, 246);
+    border-radius: 20px;
+}
+.subl p {
+    width: 335px;
+    padding: 10px;
+}
+.subr {
+    position: absolute;
+    left: 745px;
+    top: 550px;
+    width: 342px;
+    height: 500px;
+    border-radius: 20px;
+}
+.subr img {
+    border-radius: 20px;
+}
+.footer {
+    background-color:rgb(129, 143, 246);
+    color: black;
+    position: relative;
+    top: 530px;
+}

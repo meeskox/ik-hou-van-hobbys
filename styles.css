@@ -147,14 +147,6 @@ iframe {
     left: 555px;
     border-radius: 20px;
 }
-.hobbyfooter {
-    background-color:rgb(106, 140, 214);
-    color: white;
-    width: 100%;
-    height: 50px;
-    position: relative;
-    top: 1000px;
-}
 .contact {
     background-color:rgb(129, 143, 246);
     color: white;
@@ -182,4 +174,126 @@ iframe {
     position: absolute;
     top: 178px;
     left: 30px;
+}
+.festival {
+    background-color:rgb(129, 143, 246);
+    color: white;
+    width: 700px;
+    height: 150px;
+    position: relative;
+    top: 50px;
+    left: 20px;
+    border-radius: 10px;
+}
+.festival p{
+    width: 500px;
+}
+.festival img{
+    position: absolute;
+    top: 10px;
+    left: 555px;
+    border-radius: 20px;
+}
+.gamen {
+    background-color:rgb(129, 143, 246);
+    color: white;
+    width: 700px;
+    height: 150px;
+    position: relative;
+    top: 50px;
+    left: 770px;
+    border-radius: 10px;
+}
+.gamen p{
+    width: 500px;
+}
+.gamen img{
+    position: absolute;
+    top: 10px;
+    left: 555px;
+    border-radius: 20px;
+}
+.fitness {
+    background-color:rgb(129, 143, 246);
+    color: white;
+    width: 700px;
+    height: 150px;
+    position: relative;
+    top: 50px;
+    left: 20px;
+    border-radius: 10px;
+}
+.fitness p{
+    width: 500px;
+}
+.fitness img{
+    position: absolute;
+    top: 10px;
+    left: 555px;
+    border-radius: 20px;
+}
+.skaten {
+    background-color:rgb(129, 143, 246);
+    color: white;
+    width: 700px;
+    height: 150px;
+    position: relative;
+    top: 50px;
+    left: 770px;
+    border-radius: 10px;
+}
+.skaten p{
+    width: 500px;
+}
+.skaten img{
+    position: absolute;
+    top: 10px;
+    left: 555px;
+    border-radius: 20px;
+}
+.klimmen {
+    background-color:rgb(129, 143, 246);
+    color: white;
+    width: 700px;
+    height: 150px;
+    position: relative;
+    top: 50px;
+    left: 20px;
+    border-radius: 10px;
+}
+.klimmen p{
+    width: 500px;
+}
+.klimmen img{
+    position: absolute;
+    top: 10px;
+    left: 555px;
+    border-radius: 20px;
+}
+.ijshockey {
+    background-color:rgb(129, 143, 246);
+    color: white;
+    width: 700px;
+    height: 150px;
+    position: relative;
+    top: 50px;
+    left: 770px;
+    border-radius: 10px;
+}
+.ijshockey p{
+    width: 500px;
+}
+.ijshockey img{
+    position: absolute;
+    top: 10px;
+    left: 555px;
+    border-radius: 20px;
+}
+.hobbyfooter {
+    background-color:rgb(106, 140, 214);
+    color: white;
+    width: 100%;
+    height: 50px;
+    position: relative;
+    top: 100px;
 }

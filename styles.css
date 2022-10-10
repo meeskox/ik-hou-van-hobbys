@@ -9,6 +9,38 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     color: black;
 }
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: rgb(106, 140, 214);
+    overflow: hidden;
+  }
+
+  .topnav h1{
+    color: white;
+    padding-top: 5px;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #0084ff;
+    color: white;
+  }
 .topbar {
     width: 100%;
     background-color: rgb(193, 193, 255);
@@ -47,4 +79,107 @@ body{
     color: black;
     position: relative;
     top: 530px;
+}
+.muziek1 {
+    background-color: rgb(168, 177, 247);
+    color: white;
+    width: 500px;
+    height: 100px;
+    position: relative;
+    top: 50px;
+    left: 10px;
+    border-radius: 20px;
+}
+.muziek1 img {
+    position: absolute;
+    left: 410px;
+    top: 13px;
+    border-radius: 50px;
+}
+iframe {
+    position: relative;
+    left: 950px;
+    top: 100px;
+}
+.muziekfooter {
+    background-color:rgb(106, 140, 214);
+    color: white;
+    width: 100%;
+    height: 50px;
+    position: relative;
+    top: 1000px;
+}
+.mtb {
+    background-color:rgb(129, 143, 246);
+    color: white;
+    width: 700px;
+    height: 150px;
+    position: relative;
+    top: 50px;
+    left: 20px;
+    border-radius: 10px;
+}
+.mtb p{
+    width: 500px;
+}
+.mtb img{
+    position: absolute;
+    top: 10px;
+    left: 555px;
+    border-radius: 20px;
+}
+.carmeet {
+    background-color:rgb(129, 143, 246);
+    color: white;
+    width: 700px;
+    height: 150px;
+    position: relative;
+    top: 50px;
+    left: 770px;
+    border-radius: 10px;
+}
+.carmeet p{
+    width: 500px;
+}
+.carmeet img{
+    position: absolute;
+    top: 10px;
+    left: 555px;
+    border-radius: 20px;
+}
+.hobbyfooter {
+    background-color:rgb(106, 140, 214);
+    color: white;
+    width: 100%;
+    height: 50px;
+    position: relative;
+    top: 1000px;
+}
+.contact {
+    background-color:rgb(129, 143, 246);
+    color: white;
+    width: 700px;
+    height: 500px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.contact img{
+    position: absolute;
+    top: 178px;
+    left: 30px;
+}
+.locatie{
+    background-color:rgb(129, 143, 246);
+    color: white;
+    width: 700px;
+    height: 500px;
+    position: relative;
+    top: 40px;
+    left: 700px;
+}
+.locatie img{
+    position: absolute;
+    top: 178px;
+    left: 30px;
 }

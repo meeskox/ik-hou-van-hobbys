@@ -47,7 +47,7 @@ body{
     color: black;
 }
 .main {
-    position: relative;
+    position: absolute;
     left: 265px;
 }
 .subl {
@@ -87,7 +87,7 @@ body{
     height: 100px;
     position: relative;
     top: 50px;
-    left: 10px;
+    left: 50px;
     border-radius: 20px;
 }
 .muziek1 img {
@@ -98,7 +98,7 @@ body{
 }
 iframe {
     position: relative;
-    left: 950px;
+    left: 50px;
     top: 100px;
 }
 .muziekfooter {
@@ -107,13 +107,13 @@ iframe {
     width: 100%;
     height: 50px;
     position: relative;
-    top: 1000px;
+    top: 100px;
 }
 .mtb {
     background-color:rgb(129, 143, 246);
     color: white;
     width: 700px;
-    height: 150px;
+    height: 180px;
     position: relative;
     top: 50px;
     left: 20px;
@@ -132,7 +132,7 @@ iframe {
     background-color:rgb(129, 143, 246);
     color: white;
     width: 700px;
-    height: 150px;
+    height: 180px;
     position: relative;
     top: 50px;
     left: 770px;
@@ -179,7 +179,7 @@ iframe {
     background-color:rgb(129, 143, 246);
     color: white;
     width: 700px;
-    height: 150px;
+    height: 180px;
     position: relative;
     top: 50px;
     left: 20px;
@@ -198,7 +198,7 @@ iframe {
     background-color:rgb(129, 143, 246);
     color: white;
     width: 700px;
-    height: 150px;
+    height: 180px;
     position: relative;
     top: 50px;
     left: 770px;
@@ -217,7 +217,7 @@ iframe {
     background-color:rgb(129, 143, 246);
     color: white;
     width: 700px;
-    height: 150px;
+    height: 180px;
     position: relative;
     top: 50px;
     left: 20px;
@@ -236,7 +236,7 @@ iframe {
     background-color:rgb(129, 143, 246);
     color: white;
     width: 700px;
-    height: 150px;
+    height: 180px;
     position: relative;
     top: 50px;
     left: 770px;
@@ -255,7 +255,7 @@ iframe {
     background-color:rgb(129, 143, 246);
     color: white;
     width: 700px;
-    height: 150px;
+    height: 180px;
     position: relative;
     top: 50px;
     left: 20px;
@@ -274,7 +274,7 @@ iframe {
     background-color:rgb(129, 143, 246);
     color: white;
     width: 700px;
-    height: 150px;
+    height: 180px;
     position: relative;
     top: 50px;
     left: 770px;
